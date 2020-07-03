@@ -1,6 +1,6 @@
 ﻿using Oqtane.Themes;
 
-namespace Oqtane.Theme.Cerulean
+namespace Tres.Oqtane.Theme.Business
 {
     public class ThemeInfo : ITheme
     {
