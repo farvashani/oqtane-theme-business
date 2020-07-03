@@ -4,12 +4,13 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <RazorLangVersion>3.0</RazorLangVersion>
     <Version>1.0.1</Version>
-    <Authors>Shaun Walker</Authors>
-    <Company>.NET Foundation</Company>
+    <Authors>Tresckow</Authors>
+    <Company></Company>
     <Description>Custom Theme</Description>
-    <Product>Oqtane.Theme.Cerulean</Product>
+    <Product>Oqtane.Theme.Tres.Business</Product>
     <Copyright>.NET Foundation</Copyright>
-    <AssemblyName>Oqtane.Theme.Cerulean.Oqtane</AssemblyName>
+    <AssemblyName>Oqtane.Theme.Tres.Business.Oqtane</AssemblyName>
+    <RootNamespace>Oqtane.Theme.Tres.Business</RootNamespace>
   </PropertyGroup>
   
   <ItemGroup>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Oqtane.Theme.Cerulean</id>
+    <id>Oqtane.Theme.Tres.Business</id>
     <version>1.0.1</version>
     <authors>Shaun Walker</authors>
-    <owners>.NET Foundation</owners>
+    <owners>Tresckow</owners>
     <title>Oqtane Bootswatch Cerulean Theme</title>
     <description>A Custom Theme for the Oqtane Framework based on Bootswatch Cerulean</description>
     <copyright>.NET Foundation</copyright>
@@ -20,7 +20,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\Release\netstandard2.1\Oqtane.Theme.Cerulean.Oqtane.dll" target="lib\netstandard2.1" /> 
+    <file src="bin\Release\netstandard2.1\Oqtane.Theme.Tres.Business.Oqtane.dll" target="lib\netstandard2.1" /> 
     <file src="wwwroot\**\*.*" target="wwwroot" /> 
   </files>
 </package>
