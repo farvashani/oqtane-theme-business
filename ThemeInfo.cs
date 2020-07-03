@@ -6,7 +6,7 @@ namespace Tres.Oqtane.Theme.Business
     {
         public Models.Theme Theme => new Models.Theme
         {
-            Name = "Bootswatch Cerulean Theme",
+            Name = "Tres Business Theme",
             Version = "1.0.1"
         };
     }
