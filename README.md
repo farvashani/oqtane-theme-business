@@ -1,5 +1,4 @@
-# Oqtane Bootswatch Cerulean Theme
+# Oqtane Tres Business Theme
 
-Oqtane allows developers to create themes which are rendered by the framework dynamically at run-time. 
 
-This theme is based on Bootswatch Cerulean - https://bootswatch.com/cerulean/
+A custom oqtane them based off of https://github.com/oqtane/oqtane.theme.cerulean
