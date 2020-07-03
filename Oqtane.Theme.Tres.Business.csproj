@@ -26,6 +26,10 @@
     <PackageReference Include="Oqtane.Shared" Version="1.0.1" />
   </ItemGroup>
   
+  <ItemGroup>
+    <Folder Include="wwwroot\Themes\Oqtane.Theme.Tres.Business\" />
+  </ItemGroup>
+  
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
     <Exec Command="IF $(ConfigurationName) == Debug (debug.cmd)" />
     <Exec Command="IF $(ConfigurationName) == Release (release.cmd)" />
