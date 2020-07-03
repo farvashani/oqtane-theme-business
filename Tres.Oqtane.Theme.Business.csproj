@@ -7,9 +7,9 @@
     <Authors>Shaun Walker</Authors>
     <Company>.NET Foundation</Company>
     <Description>Custom Theme</Description>
-    <Product>Oqtane.Theme.Cerulean</Product>
+    <Product>Tres.Oqtane.Theme.Business</Product>
     <Copyright>.NET Foundation</Copyright>
-    <AssemblyName>Oqtane.Theme.Cerulean.Oqtane</AssemblyName>
+    <AssemblyName>Tre.Oqtane.Theme.Business</AssemblyName>
   </PropertyGroup>
   
   <ItemGroup>
