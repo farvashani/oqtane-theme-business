@@ -27,7 +27,8 @@
   </ItemGroup>
   
   <ItemGroup>
-    <Folder Include="wwwroot\Themes\Oqtane.Theme.Tres.Business\" />
+    <Folder Include="wwwroot\Themes\Oqtane.Theme.Tres.Business\js\" />
+    <Folder Include="wwwroot\Themes\Oqtane.Theme.Tres.Business\font\" />
   </ItemGroup>
   
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
